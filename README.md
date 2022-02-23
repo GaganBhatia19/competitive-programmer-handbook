@@ -1,2 +1,2 @@
 # competitive-programmer-handbook
-##Nice book for CP enthusiast 
+## Nice book for CP enthusiasts
